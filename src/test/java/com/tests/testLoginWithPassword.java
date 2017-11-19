@@ -1,6 +1,6 @@
 package com.tests;
 
-<<<<<<< HEAD
+import org.junit.Test;<<<<<<< HEAD
 import org.junit.Test;
 
 /**
